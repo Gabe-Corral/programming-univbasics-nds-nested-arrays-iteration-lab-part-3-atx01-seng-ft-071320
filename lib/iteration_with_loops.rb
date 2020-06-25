@@ -12,7 +12,6 @@ def join_nested_strings(src)
       end
       element_index += 1
     end
-    lowest_numbers << lowest
     row_index += 1
   end
   lowest_numbers
